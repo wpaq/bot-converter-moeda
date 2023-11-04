@@ -14,7 +14,7 @@ async function robo() {
     await page.screenshot({ path:'example.png' });
 
     const resultado = await page.evaluate(() => {
-        return document.querySelector('.a61j6.vk_gy.vk_sh.Hg3mWc').value;
+        return document.querySelector("#knowledge-currency__updatable-data-column > div.ePzRBb > div > div.MWvIVe.egcvbb > input").value;
     });
 
     console.log(`O valor de 1 ${moedaBase} em ${moedaFinal} é ${resultado}`);

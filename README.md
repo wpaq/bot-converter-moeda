@@ -2,7 +2,7 @@
 
 ## Rodar Projeto
 - `npm install` para instalar os pacotes
-- `npm run start` para executar o projeto
+- `npm start` para executar o projeto
 <br>
 
 ## Descrição
