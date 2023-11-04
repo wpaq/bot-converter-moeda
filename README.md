@@ -1,3 +1,6 @@
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+
 ## bot-converter-moeda :computer:
 
 ## Rodando o projeto
