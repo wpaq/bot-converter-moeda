@@ -1,12 +1,19 @@
-# bot-converter-moeda
+## bot-converter-moeda :computer:
 
-## Rodar Projeto
-- `npm install` para instalar os pacotes
-- `npm start` para executar o projeto
-<br>
+## Rodando o projeto
+
+1. Faça o clone do repositório
+2. Na raíz do projeto execute `npm install` para instalar as dependências
+3. `npm start` para executar o projeto
 
 ## Descrição
+
 - Bot que acessa sites com JavaScript
 - Faz a conversão de moedas e tira um print 
-- Utilizado a Lib `puppeteer` e `readline-sync`
 - Esse é um projeto que fiz junto ao `Mario Souto` do canal `Dev Soutinho` 
+
+## Tecnologias utilizadas :rocket:
+
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [puppeteer](https://pptr.dev)
+- [readline-sync](https://www.npmjs.com/package/readline-sync)
